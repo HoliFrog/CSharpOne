@@ -1,0 +1,7 @@
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\bin\Debug\Bonjour.exe.config
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\bin\Debug\Bonjour.exe
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\bin\Debug\Bonjour.pdb
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\obj\Debug\Bonjour.csproj.CoreCompileInputs.cache
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\obj\Debug\Bonjour.exe
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\obj\Debug\Bonjour.pdb
+C:\Users\olivier.menuel\source\repos\Bonjour\Bonjour\obj\Debug\Bonjour.csprojAssemblyReference.cache
