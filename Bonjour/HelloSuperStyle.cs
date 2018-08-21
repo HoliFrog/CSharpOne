@@ -16,6 +16,7 @@ namespace Bonjour
             while (!stop)
             {
                 Console.WriteLine(message.DisplayDayMessage());
+                Console.WriteLine(DateTime.Now);
                 string line = Console.ReadLine();
                 stop = (line == "exit");
             }
