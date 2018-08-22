@@ -15,3 +15,5 @@ C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\obj\Debug\BonjourTests.
 C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\obj\Debug\BonjourTests.csproj.CopyComplete
 C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\obj\Debug\BonjourTest.dll
 C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\obj\Debug\BonjourTest.pdb
+C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\bin\Debug\NMock3.dll
+C:\Users\olivier.menuel\source\repos\Bonjour\BonjourTest\bin\Debug\NMock3.xml
